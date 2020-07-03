@@ -1,0 +1,3 @@
+export const DEFAULT_INTERVAL = 300;
+export const DEFAULT_MIN_BATCH_SIZE = 0;
+export const DEFAULT_MAX_BATCH_SIZE = 1000;
